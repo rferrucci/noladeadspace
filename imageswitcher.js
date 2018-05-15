@@ -1,3 +1,5 @@
+//testing the git
+
 jQuery(document).ready(function($) {
 
 mapImages={"C99018105": "view518_250.jpg",  "C8D919104": "view555_250.jpg", "C8633B103": "view484_250.jpg","C365F7102": "v1000MrA_250.jpg", "C19F9A99": "view156_250.jpg","BF921497": "view2001_250.jpg",
